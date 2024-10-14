@@ -1,0 +1,3 @@
+# Golangのセットアップツール
+
+* author: a.saneyoshi
